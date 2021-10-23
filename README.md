@@ -1,13 +1,12 @@
 # Blackjack
-https://bicyclecards.com/how-to-play/blackjack/
 
-ASCII Art (Text Generator):
+**ASCII Art (Text Generator)**:
 https://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20
 
 **ASCII Card Design Inspiration (NOTE: I did not copy the code!):**
 https://github.com/damn1/ascii-blackjack
 
-RULES OF BLACKJACK
+**RULES OF BLACKJACK**
 1. The player will play first, not the dealer
 2. Each player places a bet before dealing
 3. Bets will range from $2 to $500
@@ -24,18 +23,20 @@ randomized card from the deck
 11. “Stand” is a phrase used in Blackjack which means that the player does not want to be
 passed another card from the deck
 
-OVERVIEW
+**OVERVIEW**
 Creating the Blackjack game will include Blackjack’s basic rules.
 These rules will be added in the game but it is not mandatory for the user to read them before
 playing the game. The user can respond with either “y” to see the rules (if the user does not
 know how to play Blackjack) or “n” if the user does know how to play Blackjack.
 The Blackjack application will ask for the player’s name and then use it for personalized
 messages.
+
 Once a player’s name is chosen, the dealer(computer) will shuffle the deck of cards (note: the
 joker cards will NOT be included) and pass two randomized cards to the player. The dealer will
 also deal two randomized cards for themself which will include one card facing up and one card
 facing down. However, this will not be the same for the player (the player will be dealt two cards
 facing up).
+
 The player gets the first move and can check both of their cards determining whether to say
 “stand” or “hit me”.
 If the player were to “stand”, the dealer will first flip their hidden card over to make it visible and
