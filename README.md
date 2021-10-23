@@ -24,6 +24,7 @@ randomized card from the deck
 passed another card from the deck
 
 **OVERVIEW**
+
 Creating the Blackjack game will include Blackjack’s basic rules.
 These rules will be added in the game but it is not mandatory for the user to read them before
 playing the game. The user can respond with either “y” to see the rules (if the user does not
