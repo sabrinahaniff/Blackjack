@@ -6,6 +6,8 @@ https://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20
 **ASCII Card Design Inspiration (NOTE: I did not copy the code!):**
 https://github.com/damn1/ascii-blackjack
 
+Hey everyone. This is a program I built for my computer science teacher in grade 10.
+
 **RULES OF BLACKJACK**
 1. The player will play first, not the dealer
 2. Each player places a bet before dealing
